@@ -80,7 +80,7 @@ var game = {
     }
   },
 };
-var docID = game.docsID;//here
+var docID = game.docsID;
 if (localStorage.getItem("saved") != undefined) {
   var multiply = game.multiply;
   game.points = Number(localStorage.getItem("points"));
