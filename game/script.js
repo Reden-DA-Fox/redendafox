@@ -41,8 +41,8 @@ var game = {
     auto: document.getElementById("auto"),
     prestigebutton: document.getElementById("prestigebutton"),
     saved: document.getElementById("saved"),
-    got100: document.getElementById("got100"),//here
-    got1k: document.getElementById("got1k"),//here
+    got100: document.getElementById("got100"),
+    got1k: document.getElementById("got1k"),
   },
   prestige: {
     mult: 1,
